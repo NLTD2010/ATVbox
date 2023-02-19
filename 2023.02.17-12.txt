@@ -1,0 +1,958 @@
+[12:01:48 062][Global][Inf]--USB_Burning_Tool soft Version: V2.1.9.0
+[12:01:48 062][Global][Inf]--Windows Version: Microsoft Windows 10, Bit: 64
+[12:01:48 065][Global][Inf]--Scan usb device
+[12:01:48 065][Global][Inf]--Aml scan WorldCup Device
+[12:01:48 066][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:01:48 066][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:01:48 066][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:01:48 088][Global][Inf]-------->[Port0]Other device
+[12:01:48 089][Global][Inf]-------->[Port1]\\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:01:48 089][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:01:48 089][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:01:48 089][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:01:48 089][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:01:48 089][Global][Inf]-------->[Port6]Other device
+[12:01:48 089][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:01:48 089][Global][Inf]-------->[Port8]Other device
+[12:01:48 090][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:01:48 090][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:01:48 090][Global][Inf]--Scan USB host controller complete
+[12:01:48 090][Global][Inf]--Update data center with HubMap
+[12:01:48 090][Global][Inf]--Insert new hub1
+[12:01:48 090][Global][Inf]--Update hub1 device data
+[12:01:48 090][Global][Inf]--Update HUB1-1 
+[12:01:48 090][HUB1-1][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Update HUB1-2 \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:01:48 090][HUB1-2][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Begin thread for HUB1-2
+[12:01:48 090][Global][Inf]--Burning thread HUB1-2 start
+[12:01:48 090][Global][Inf]--Update HUB1-3 
+[12:01:48 090][HUB1-3][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Burning thread HUB1-2 begin run
+[12:01:48 090][Global][Inf]--Update HUB1-4 
+[12:01:48 090][HUB1-4][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Update HUB1-5 
+[12:01:48 090][HUB1-5][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Update HUB1-6 
+[12:01:48 090][HUB1-6][Inf]--Update device path
+[12:01:48 090][Global][Inf]--Update HUB1-7 
+[12:01:48 091][HUB1-7][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-8 
+[12:01:48 091][HUB1-8][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-9 
+[12:01:48 091][HUB1-9][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-10 
+[12:01:48 091][HUB1-10][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-11 
+[12:01:48 091][HUB1-11][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-12 
+[12:01:48 091][HUB1-12][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-13 
+[12:01:48 091][HUB1-13][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-14 
+[12:01:48 091][HUB1-14][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-15 
+[12:01:48 091][HUB1-15][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-16 
+[12:01:48 091][HUB1-16][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-17 
+[12:01:48 091][HUB1-17][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-18 
+[12:01:48 091][HUB1-18][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-19 
+[12:01:48 091][HUB1-19][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Update HUB1-20 
+[12:01:48 091][HUB1-20][Inf]--Update device path
+[12:01:48 091][Global][Inf]--Add Hub1: \\.\USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} to m_HubDeviceDataVector
+[12:01:48 091][Global][Inf]--Scan end 
+[12:01:54 370][Global][Inf]--OpenImg D:\AB\S950w\T95S1_TS1AB_W2_p282_190928.img
+[12:02:01 022][Global][Inf]--check img crc success! 
+[12:02:01 023]Parse platform.conf 
+[12:02:01 027][Global][Inf]--Parsing burning package
+[12:02:01 027][Global][Inf]--Load configuration file C:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp
+[12:02:01 027][Global][Inf]--Parse burning configuration file C:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp\burn_config.xml
+[12:02:01 030][Global][Inf]--Get burning key
+[12:02:06 709][Global][Inf]--User click start button
+[12:02:06 711][Global][Inf]--SetErase
+[12:02:06 713][Global][Inf]--Enable burning 1
+[12:02:06 713][Global][Inf]--Scan usb device
+[12:02:06 713][Global][Inf]--Aml scan WorldCup Device
+[12:02:06 714][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:02:06 714][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:02:06 714][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:02:06 714][Global][Inf]-------->[Port0]Other device
+[12:02:06 715][Global][Inf]-------->[Port1]\\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:02:06 715][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:02:06 715][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:02:06 715][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:02:06 715][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:02:06 715][Global][Inf]-------->[Port6]Other device
+[12:02:06 715][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port8]Other device
+[12:02:06 716][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:02:06 716][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:02:06 716][Global][Inf]--Scan USB host controller complete
+[12:02:06 716][HUB1-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000003c0
+[12:02:06 716][Global][Inf]--Update data center with HubMap
+[12:02:06 716][Global][Inf]--Update hub1 device data
+[12:02:06 716][Global][Inf]--Update HUB1-1 
+[12:02:06 716][HUB1-1][Inf]--Update device path
+[12:02:06 716][Global][Inf]--Update HUB1-2 \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:02:06 778][HUB1-2][Inf]--CloneImageProxy
+[12:02:06 778][HUB1-2][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-3 
+[12:02:06 778][HUB1-3][Inf]--Update device path
+[12:02:06 778][Global][Inf]--OpenImg D:\AB\S950w\T95S1_TS1AB_W2_p282_190928.img
+[12:02:06 778][Global][Inf]--Update HUB1-4 
+[12:02:06 778][HUB1-4][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-5 
+[12:02:06 778][HUB1-5][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-6 
+[12:02:06 778][HUB1-6][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-7 
+[12:02:06 778][HUB1-7][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-8 
+[12:02:06 778][HUB1-8][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-9 
+[12:02:06 778][HUB1-9][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-10 
+[12:02:06 778][HUB1-10][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-11 
+[12:02:06 778][HUB1-11][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-12 
+[12:02:06 778][HUB1-12][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-13 
+[12:02:06 778][HUB1-13][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-14 
+[12:02:06 778][HUB1-14][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-15 
+[12:02:06 778][HUB1-15][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-16 
+[12:02:06 778][HUB1-16][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-17 
+[12:02:06 778][HUB1-17][Inf]--Update device path
+[12:02:06 778][Global][Inf]--Update HUB1-18 
+[12:02:06 778][HUB1-18][Inf]--Update device path
+[12:02:06 778][HUB1-2][Inf]--Connect path=USB xHCI Compliant Host Controller/P0/P1
+[12:02:06 779][Global][Inf]--Update HUB1-19 
+[12:02:06 779][HUB1-19][Inf]--Update device path
+[12:02:06 779][HUB1-2][Inf]--Start burning...
+[12:02:06 779][Global][Inf]--Update HUB1-20 
+[12:02:06 779][HUB1-20][Inf]--Update device path
+[12:02:06 779][Global][Inf]--Scan end 
+[12:02:06 839][HUB1-2][Inf]--------------ERASE BOOTLOADER------------
+[12:02:06 839][HUB1-2][Inf]-------------Download DDR.USB-----------
+[12:02:06 839][HUB1-2][Inf]--Close device handle 0x000003c0
+[12:02:06 903][HUB1-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000003c4
+[12:02:06 965][HUB1-2][Inf]--2-4-0-0
+[12:02:06 965][HUB1-2][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:02:07 467][HUB1-2][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:02:07 978][HUB1-2][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:02:08 494][HUB1-2][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:02:08 995][HUB1-2][Inf]--Write initial succeed
+[12:02:08 995][HUB1-2][Inf]--Upload encrypt at 0xc8100228
+[12:02:08 995][HUB1-2][Inf]--ulValue = 0xbdfc31bc
+[12:02:08 995][HUB1-2][Inf]--File change to DDR_ENC.USB
+[12:02:08 995][HUB1-2][Inf]--Read encrypt value succeed
+[12:02:08 995][HUB1-2][Inf]--Download DDR_ENC.USB,size: 0!
+[12:02:08 995][Global][Err]--DDR_ENC.USB
+[12:02:08 995][Global][Err]--DDR_ENC.USB
+[12:02:08 995][HUB1-2][Err]--Read item data error, code -1
+[12:02:08 995][Global][Err]--DDR_ENC.USB
+[12:02:09 008][HUB1-2][Err]--[0x10103005]Romcode/Initialize DDR/Download buffer/Read item data failed
+[12:02:09 008][HUB1-2][Inf]--Close device handle 0x000003c4
+[12:05:11 421][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[12:05:11 423][Global][Inf]--Scan usb device
+[12:05:11 423][Global][Inf]--Aml scan WorldCup Device
+[12:05:11 424][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:05:11 424][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:05:11 424][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:05:11 425][Global][Inf]-------->[Port0]Other device
+[12:05:11 425][Global][Inf]-------->[Port1]NoDeviceConnected
+[12:05:11 425][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:05:11 425][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:05:11 425][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:05:11 425][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:05:11 425][Global][Inf]-------->[Port6]Other device
+[12:05:11 425][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port8]Other device
+[12:05:11 426][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:05:11 426][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:05:11 426][Global][Inf]--Scan USB host controller complete
+[12:05:11 426][Global][Inf]--Update data center with HubMap
+[12:05:11 426][Global][Inf]--Update hub1 device data
+[12:05:11 426][Global][Inf]--Update HUB1-1 
+[12:05:11 426][HUB1-1][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-2 
+[12:05:11 426][HUB1-2][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-3 
+[12:05:11 426][HUB1-3][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-4 
+[12:05:11 426][HUB1-4][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-5 
+[12:05:11 426][HUB1-5][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-6 
+[12:05:11 426][HUB1-6][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-7 
+[12:05:11 426][HUB1-7][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-8 
+[12:05:11 426][HUB1-8][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-9 
+[12:05:11 426][HUB1-9][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-10 
+[12:05:11 426][HUB1-10][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-11 
+[12:05:11 426][HUB1-11][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-12 
+[12:05:11 426][HUB1-12][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-13 
+[12:05:11 426][HUB1-13][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-14 
+[12:05:11 426][HUB1-14][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-15 
+[12:05:11 426][HUB1-15][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-16 
+[12:05:11 426][HUB1-16][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-17 
+[12:05:11 426][HUB1-17][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-18 
+[12:05:11 426][HUB1-18][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-19 
+[12:05:11 426][HUB1-19][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Update HUB1-20 
+[12:05:11 426][HUB1-20][Inf]--Update device path
+[12:05:11 426][Global][Inf]--Scan end 
+[12:32:14 927][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[12:32:14 933][Global][Inf]--Scan usb device
+[12:32:14 934][Global][Inf]--Aml scan WorldCup Device
+[12:32:14 935][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:32:14 936][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:32:14 936][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:32:14 936][Global][Inf]-------->[Port0]Other device
+[12:32:14 937][Global][Inf]-------->[Port1]Other device
+[12:32:14 937][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:32:14 938][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:32:14 938][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:32:14 938][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:32:14 938][Global][Inf]-------->[Port6]Other device
+[12:32:14 938][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port8]Other device
+[12:32:14 944][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:32:14 944][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:32:14 945][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:32:14 945][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:32:14 945][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:32:14 945][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:32:14 945][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:32:14 945][Global][Inf]--Scan USB host controller complete
+[12:32:14 945][Global][Inf]--Update data center with HubMap
+[12:32:14 945][Global][Inf]--Update hub1 device data
+[12:32:14 945][Global][Inf]--Update HUB1-1 
+[12:32:14 945][HUB1-1][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-2 
+[12:32:14 945][HUB1-2][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-3 
+[12:32:14 945][HUB1-3][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-4 
+[12:32:14 945][HUB1-4][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-5 
+[12:32:14 945][HUB1-5][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-6 
+[12:32:14 945][HUB1-6][Inf]--Update device path
+[12:32:14 945][Global][Inf]--Update HUB1-7 
+[12:32:14 946][HUB1-7][Inf]--Update device path
+[12:32:14 946][Global][Inf]--Update HUB1-8 
+[12:32:14 946][HUB1-8][Inf]--Update device path
+[12:32:14 946][Global][Inf]--Update HUB1-9 
+[12:32:14 946][HUB1-9][Inf]--Update device path
+[12:32:14 946][Global][Inf]--Update HUB1-10 
+[12:32:14 946][HUB1-10][Inf]--Update device path
+[12:32:14 946][Global][Inf]--Update HUB1-11 
+[12:32:14 946][HUB1-11][Inf]--Update device path
+[12:32:14 946][Global][Inf]--Update HUB1-12 
+[12:32:14 947][HUB1-12][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-13 
+[12:32:14 947][HUB1-13][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-14 
+[12:32:14 947][HUB1-14][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-15 
+[12:32:14 947][HUB1-15][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-16 
+[12:32:14 947][HUB1-16][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-17 
+[12:32:14 947][HUB1-17][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-18 
+[12:32:14 947][HUB1-18][Inf]--Update device path
+[12:32:14 947][Global][Inf]--Update HUB1-19 
+[12:32:14 948][HUB1-19][Inf]--Update device path
+[12:32:14 948][Global][Inf]--Update HUB1-20 
+[12:32:14 948][HUB1-20][Inf]--Update device path
+[12:32:14 948][Global][Inf]--Scan end 
+[12:32:14 960][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[12:32:14 960][Global][Inf]--Scan usb device
+[12:32:14 961][Global][Inf]--Aml scan WorldCup Device
+[12:32:14 962][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:32:14 962][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:32:14 962][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:32:14 963][Global][Inf]-------->[Port0]Other device
+[12:32:14 964][Global][Inf]-------->[Port1]Other device
+[12:32:14 964][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:32:14 964][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:32:14 964][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:32:14 964][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:32:14 965][Global][Inf]-------->[Port6]Other device
+[12:32:14 965][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port8]Other device
+[12:32:14 966][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:32:14 966][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:32:14 966][Global][Inf]--Scan USB host controller complete
+[12:32:14 967][Global][Inf]--Update data center with HubMap
+[12:32:14 967][Global][Inf]--Update hub1 device data
+[12:32:14 967][Global][Inf]--Update HUB1-1 
+[12:32:14 967][HUB1-1][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-2 
+[12:32:14 967][HUB1-2][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-3 
+[12:32:14 967][HUB1-3][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-4 
+[12:32:14 967][HUB1-4][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-5 
+[12:32:14 967][HUB1-5][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-6 
+[12:32:14 967][HUB1-6][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-7 
+[12:32:14 967][HUB1-7][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-8 
+[12:32:14 967][HUB1-8][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-9 
+[12:32:14 967][HUB1-9][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-10 
+[12:32:14 967][HUB1-10][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-11 
+[12:32:14 967][HUB1-11][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-12 
+[12:32:14 967][HUB1-12][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-13 
+[12:32:14 967][HUB1-13][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-14 
+[12:32:14 967][HUB1-14][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-15 
+[12:32:14 967][HUB1-15][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-16 
+[12:32:14 967][HUB1-16][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-17 
+[12:32:14 967][HUB1-17][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-18 
+[12:32:14 967][HUB1-18][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-19 
+[12:32:14 967][HUB1-19][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Update HUB1-20 
+[12:32:14 967][HUB1-20][Inf]--Update device path
+[12:32:14 967][Global][Inf]--Scan end 
+[12:32:34 708][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[12:32:34 712][Global][Inf]--Scan usb device
+[12:32:34 712][Global][Inf]--Aml scan WorldCup Device
+[12:32:34 713][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:32:34 713][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:32:34 713][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:32:34 714][Global][Inf]-------->[Port0]Other device
+[12:32:34 715][Global][Inf]-------->[Port1]Other device
+[12:32:34 715][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:32:34 715][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:32:34 715][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:32:34 715][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:32:34 716][Global][Inf]-------->[Port6]Other device
+[12:32:34 716][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:32:34 717][Global][Inf]-------->[Port8]Other device
+[12:32:34 717][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:32:34 717][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:32:34 717][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:32:34 717][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port13]\\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:32:34 718][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:32:34 718][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:32:34 719][Global][Inf]--Scan USB host controller complete
+[12:32:34 719][Global][Inf]--Update data center with HubMap
+[12:32:34 719][Global][Inf]--Update hub1 device data
+[12:32:34 719][Global][Inf]--Update HUB1-1 
+[12:32:34 719][HUB1-1][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-2 
+[12:32:34 719][HUB1-2][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-3 
+[12:32:34 719][HUB1-3][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-4 
+[12:32:34 719][HUB1-4][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-5 
+[12:32:34 719][HUB1-5][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-6 
+[12:32:34 719][HUB1-6][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-7 
+[12:32:34 719][HUB1-7][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-8 
+[12:32:34 719][HUB1-8][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-9 
+[12:32:34 719][HUB1-9][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-10 
+[12:32:34 719][HUB1-10][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-11 
+[12:32:34 719][HUB1-11][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-12 
+[12:32:34 719][HUB1-12][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-13 
+[12:32:34 719][HUB1-13][Inf]--Update device path
+[12:32:34 719][Global][Inf]--Update HUB1-14 \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:32:34 719][HUB1-14][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Begin thread for HUB1-14
+[12:32:34 720][Global][Inf]--Update HUB1-15 
+[12:32:34 720][HUB1-15][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Update HUB1-16 
+[12:32:34 720][HUB1-16][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Update HUB1-17 
+[12:32:34 720][HUB1-17][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Update HUB1-18 
+[12:32:34 720][HUB1-18][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Update HUB1-19 
+[12:32:34 720][HUB1-19][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Update HUB1-20 
+[12:32:34 720][HUB1-20][Inf]--Update device path
+[12:32:34 720][Global][Inf]--Burning thread HUB1-14 start
+[12:32:34 720][Global][Inf]--Burning thread HUB1-14 begin run
+[12:32:34 720][Global][Inf]--Scan end 
+[12:32:34 720][HUB1-14][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000003d8
+[12:32:34 771][HUB1-14][Inf]--CloneImageProxy
+[12:32:34 771][Global][Inf]--OpenImg D:\AB\S950w\T95S1_TS1AB_W2_p282_190928.img
+[12:32:34 771][HUB1-14][Inf]--Connect path=USB xHCI Compliant Host Controller/P0/P13à¿
+[12:32:34 771][HUB1-14][Inf]--Start burning...
+[12:32:34 834][HUB1-14][Inf]--------------ERASE BOOTLOADER------------
+[12:32:34 834][HUB1-14][Inf]-------------Download DDR.USB-----------
+[12:32:34 834][HUB1-14][Inf]--2-4-0-0
+[12:32:34 834][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:32:35 337][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:32:35 842][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:32:36 343][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:32:36 853][HUB1-14][Inf]--Write initial succeed
+[12:32:36 853][HUB1-14][Inf]--Upload encrypt at 0xc8100228
+[12:32:36 853][HUB1-14][Inf]--ulValue = 0xbdfc31bc
+[12:32:36 853][HUB1-14][Inf]--File change to DDR_ENC.USB
+[12:32:36 853][HUB1-14][Inf]--Read encrypt value succeed
+[12:32:36 853][HUB1-14][Inf]--Download DDR_ENC.USB,size: 0!
+[12:32:36 853][Global][Err]--DDR_ENC.USB
+[12:32:36 853][Global][Err]--DDR_ENC.USB
+[12:32:36 853][HUB1-14][Err]--Read item data error, code -1
+[12:32:36 853][Global][Err]--DDR_ENC.USB
+[12:32:36 864][HUB1-14][Err]--[0x10103005]Romcode/Initialize DDR/Download buffer/Read item data failed
+[12:32:36 864][HUB1-14][Inf]--Close device handle 0x000003d8
+[12:32:56 481][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[12:32:56 483][Global][Inf]--Scan usb device
+[12:32:56 484][Global][Inf]--Aml scan WorldCup Device
+[12:32:56 486][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:32:56 487][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:32:56 487][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:32:56 487][Global][Inf]-------->[Port0]Other device
+[12:32:56 488][Global][Inf]-------->[Port1]Other device
+[12:32:56 488][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:32:56 488][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:32:56 488][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:32:56 488][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port6]Other device
+[12:32:56 489][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port8]Other device
+[12:32:56 489][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:32:56 489][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:32:56 489][Global][Inf]--Scan USB host controller complete
+[12:32:56 489][Global][Inf]--Update data center with HubMap
+[12:32:56 489][Global][Inf]--Update hub1 device data
+[12:32:56 489][Global][Inf]--Update HUB1-1 
+[12:32:56 489][HUB1-1][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-2 
+[12:32:56 490][HUB1-2][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-3 
+[12:32:56 490][HUB1-3][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-4 
+[12:32:56 490][HUB1-4][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-5 
+[12:32:56 490][HUB1-5][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-6 
+[12:32:56 490][HUB1-6][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-7 
+[12:32:56 490][HUB1-7][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-8 
+[12:32:56 490][HUB1-8][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-9 
+[12:32:56 490][HUB1-9][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-10 
+[12:32:56 490][HUB1-10][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-11 
+[12:32:56 490][HUB1-11][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-12 
+[12:32:56 490][HUB1-12][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-13 
+[12:32:56 490][HUB1-13][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-14 
+[12:32:56 490][HUB1-14][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-15 
+[12:32:56 490][HUB1-15][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-16 
+[12:32:56 490][HUB1-16][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-17 
+[12:32:56 490][HUB1-17][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-18 
+[12:32:56 490][HUB1-18][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-19 
+[12:32:56 490][HUB1-19][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Update HUB1-20 
+[12:32:56 490][HUB1-20][Inf]--Update device path
+[12:32:56 490][Global][Inf]--Scan end 
+[12:34:32 139][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[12:34:32 145][Global][Inf]--Scan usb device
+[12:34:32 145][Global][Inf]--Aml scan WorldCup Device
+[12:34:32 146][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:34:32 146][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:34:32 146][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:34:32 147][Global][Inf]-------->[Port0]Other device
+[12:34:32 148][Global][Inf]-------->[Port1]Other device
+[12:34:32 148][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:34:32 148][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:34:32 148][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:34:32 148][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:34:32 148][Global][Inf]-------->[Port6]Other device
+[12:34:32 148][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port8]Other device
+[12:34:32 149][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port13]\\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:34:32 149][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:34:32 149][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:34:32 149][Global][Inf]--Scan USB host controller complete
+[12:34:32 149][Global][Inf]--Update data center with HubMap
+[12:34:32 149][Global][Inf]--Update hub1 device data
+[12:34:32 149][Global][Inf]--Update HUB1-1 
+[12:34:32 149][HUB1-1][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-2 
+[12:34:32 150][HUB1-2][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-3 
+[12:34:32 150][HUB1-3][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-4 
+[12:34:32 150][HUB1-4][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-5 
+[12:34:32 150][HUB1-5][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-6 
+[12:34:32 150][HUB1-6][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-7 
+[12:34:32 150][HUB1-7][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-8 
+[12:34:32 150][HUB1-8][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-9 
+[12:34:32 150][HUB1-9][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-10 
+[12:34:32 150][HUB1-10][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-11 
+[12:34:32 150][HUB1-11][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-12 
+[12:34:32 150][HUB1-12][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-13 
+[12:34:32 150][HUB1-13][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-14 \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:34:32 150][HUB1-14][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-15 
+[12:34:32 150][HUB1-15][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-16 
+[12:34:32 150][HUB1-16][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-17 
+[12:34:32 150][HUB1-17][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-18 
+[12:34:32 150][HUB1-18][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-19 
+[12:34:32 150][HUB1-19][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Update HUB1-20 
+[12:34:32 150][HUB1-20][Inf]--Update device path
+[12:34:32 150][Global][Inf]--Scan end 
+[12:34:32 184][Global][Inf]--Burning thread HUB1-14 start
+[12:34:32 248][HUB1-14][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x0000040c
+[12:34:32 310][HUB1-14][Inf]--Connect path=USB xHCI Compliant Host Controller/P0/P13à¿
+[12:34:32 310][HUB1-14][Inf]--Start burning...
+[12:34:32 374][HUB1-14][Inf]--------------ERASE BOOTLOADER------------
+[12:34:32 374][HUB1-14][Inf]-------------Download DDR.USB-----------
+[12:34:32 374][HUB1-14][Inf]--2-4-0-0
+[12:34:32 374][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:34:32 889][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:34:33 394][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:34:33 906][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:34:34 420][HUB1-14][Inf]--Write initial succeed
+[12:34:34 420][HUB1-14][Inf]--Upload encrypt at 0xc8100228
+[12:34:34 420][HUB1-14][Inf]--ulValue = 0xbdfc31bc
+[12:34:34 421][HUB1-14][Inf]--File change to DDR_ENC.USB
+[12:34:34 421][HUB1-14][Inf]--Read encrypt value succeed
+[12:34:34 421][HUB1-14][Inf]--Download DDR_ENC.USB,size: 0!
+[12:34:34 421][Global][Err]--DDR_ENC.USB
+[12:34:34 421][Global][Err]--DDR_ENC.USB
+[12:34:34 421][HUB1-14][Err]--Read item data error, code -1
+[12:34:34 421][Global][Err]--DDR_ENC.USB
+[12:34:34 431][HUB1-14][Err]--[0x10103005]Romcode/Initialize DDR/Download buffer/Read item data failed
+[12:34:34 431][HUB1-14][Inf]--Close device handle 0x0000040c
+[12:35:46 292][Global][War]--User click stop button
+[12:35:46 293][Global][Inf]--Enable burning 0
+[12:35:47 932][Global][Inf]--User click start button
+[12:35:47 932][Global][Inf]--SetErase
+[12:35:47 933][Global][Inf]--Enable burning 1
+[12:35:47 933][Global][Inf]--Scan usb device
+[12:35:47 933][Global][Inf]--Aml scan WorldCup Device
+[12:35:47 934][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:35:47 934][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:35:47 934][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:35:47 934][Global][Inf]-------->[Port0]Other device
+[12:35:47 935][Global][Inf]-------->[Port1]Other device
+[12:35:47 935][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:35:47 935][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:35:47 935][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:35:47 935][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:35:47 935][Global][Inf]-------->[Port6]Other device
+[12:35:47 935][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port8]Other device
+[12:35:47 936][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port13]\\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:35:47 936][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:35:47 936][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:35:47 936][Global][Inf]--Scan USB host controller complete
+[12:35:47 936][Global][Inf]--Update data center with HubMap
+[12:35:47 936][Global][Inf]--Update hub1 device data
+[12:35:47 936][Global][Inf]--Update HUB1-1 
+[12:35:47 936][HUB1-1][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-2 
+[12:35:47 937][HUB1-2][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-3 
+[12:35:47 937][HUB1-3][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-4 
+[12:35:47 937][HUB1-4][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-5 
+[12:35:47 937][HUB1-5][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-6 
+[12:35:47 937][HUB1-6][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-7 
+[12:35:47 937][HUB1-7][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-8 
+[12:35:47 937][HUB1-8][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-9 
+[12:35:47 937][HUB1-9][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-10 
+[12:35:47 937][HUB1-10][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-11 
+[12:35:47 937][HUB1-11][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-12 
+[12:35:47 937][HUB1-12][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-13 
+[12:35:47 937][HUB1-13][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-14 \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[12:35:47 937][HUB1-14][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-15 
+[12:35:47 937][HUB1-15][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-16 
+[12:35:47 937][HUB1-16][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-17 
+[12:35:47 937][HUB1-17][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-18 
+[12:35:47 937][HUB1-18][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-19 
+[12:35:47 937][HUB1-19][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Update HUB1-20 
+[12:35:47 937][HUB1-20][Inf]--Update device path
+[12:35:47 937][Global][Inf]--Scan end 
+[12:35:47 965][Global][Inf]--Burning thread HUB1-14 start
+[12:35:48 027][HUB1-14][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#5&356b5377&0&14#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x00000434
+[12:35:48 090][HUB1-14][Inf]--Connect path=USB xHCI Compliant Host Controller/P0/P13à¿
+[12:35:48 090][HUB1-14][Inf]--Start burning...
+[12:35:48 152][HUB1-14][Inf]--------------ERASE BOOTLOADER------------
+[12:35:48 152][HUB1-14][Inf]-------------Download DDR.USB-----------
+[12:35:48 152][HUB1-14][Inf]--2-4-0-0
+[12:35:48 152][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:35:48 667][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:35:49 181][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x000000b1
+[12:35:49 695][HUB1-14][Inf]--Control write pll reg1 0xd9000000:0x00005183
+[12:35:50 210][HUB1-14][Inf]--Write initial succeed
+[12:35:50 210][HUB1-14][Inf]--Upload encrypt at 0xc8100228
+[12:35:50 210][HUB1-14][Inf]--ulValue = 0xbdfc31bc
+[12:35:50 210][HUB1-14][Inf]--File change to DDR_ENC.USB
+[12:35:50 211][HUB1-14][Inf]--Read encrypt value succeed
+[12:35:50 211][HUB1-14][Inf]--Download DDR_ENC.USB,size: 0!
+[12:35:50 211][Global][Err]--DDR_ENC.USB
+[12:35:50 211][Global][Err]--DDR_ENC.USB
+[12:35:50 211][HUB1-14][Err]--Read item data error, code -1
+[12:35:50 211][Global][Err]--DDR_ENC.USB
+[12:35:50 219][HUB1-14][Err]--[0x10103005]Romcode/Initialize DDR/Download buffer/Read item data failed
+[12:35:50 219][HUB1-14][Inf]--Close device handle 0x00000434
+[12:37:31 897][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[12:37:31 900][Global][Inf]--Scan usb device
+[12:37:31 900][Global][Inf]--Aml scan WorldCup Device
+[12:37:31 901][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:37:31 901][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:37:31 901][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:37:31 902][Global][Inf]-------->[Port0]Other device
+[12:37:31 903][Global][Inf]-------->[Port1]Other device
+[12:37:31 903][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:37:31 903][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:37:31 903][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:37:31 904][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:37:31 905][Global][Inf]-------->[Port6]Other device
+[12:37:31 905][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:37:31 905][Global][Inf]-------->[Port8]Other device
+[12:37:31 905][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:37:31 906][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:37:31 906][Global][Inf]--Scan USB host controller complete
+[12:37:31 906][Global][Inf]--Update data center with HubMap
+[12:37:31 906][Global][Inf]--Update hub1 device data
+[12:37:31 906][Global][Inf]--Update HUB1-1 
+[12:37:31 906][HUB1-1][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-2 
+[12:37:31 906][HUB1-2][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-3 
+[12:37:31 906][HUB1-3][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-4 
+[12:37:31 906][HUB1-4][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-5 
+[12:37:31 906][HUB1-5][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-6 
+[12:37:31 906][HUB1-6][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-7 
+[12:37:31 906][HUB1-7][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-8 
+[12:37:31 906][HUB1-8][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-9 
+[12:37:31 906][HUB1-9][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-10 
+[12:37:31 906][HUB1-10][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-11 
+[12:37:31 906][HUB1-11][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-12 
+[12:37:31 906][HUB1-12][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-13 
+[12:37:31 906][HUB1-13][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-14 
+[12:37:31 906][HUB1-14][Inf]--Update device path
+[12:37:31 906][Global][Inf]--Update HUB1-15 
+[12:37:31 906][HUB1-15][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Update HUB1-16 
+[12:37:31 907][HUB1-16][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Update HUB1-17 
+[12:37:31 907][HUB1-17][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Update HUB1-18 
+[12:37:31 907][HUB1-18][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Update HUB1-19 
+[12:37:31 907][HUB1-19][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Update HUB1-20 
+[12:37:31 907][HUB1-20][Inf]--Update device path
+[12:37:31 907][Global][Inf]--Scan end 
+[12:57:58 863][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[12:57:58 865][Global][Inf]--Scan usb device
+[12:57:58 866][Global][Inf]--Aml scan WorldCup Device
+[12:57:58 867][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:57:58 867][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:57:58 868][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:57:58 869][Global][Inf]-------->[Port0]Other device
+[12:57:58 869][Global][Inf]-------->[Port1]NoDeviceConnected
+[12:57:58 869][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:57:58 869][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:57:58 869][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:57:58 869][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:57:58 869][Global][Inf]-------->[Port6]Other device
+[12:57:58 869][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port8]Other device
+[12:57:58 871][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:57:58 871][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:57:58 871][Global][Inf]--Scan USB host controller complete
+[12:57:58 871][Global][Inf]--Update data center with HubMap
+[12:57:58 873][Global][Inf]--Update hub1 device data
+[12:57:58 873][Global][Inf]--Update HUB1-1 
+[12:57:58 873][HUB1-1][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-2 
+[12:57:58 873][HUB1-2][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-3 
+[12:57:58 873][HUB1-3][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-4 
+[12:57:58 873][HUB1-4][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-5 
+[12:57:58 873][HUB1-5][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-6 
+[12:57:58 873][HUB1-6][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-7 
+[12:57:58 873][HUB1-7][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-8 
+[12:57:58 873][HUB1-8][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-9 
+[12:57:58 873][HUB1-9][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-10 
+[12:57:58 873][HUB1-10][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-11 
+[12:57:58 873][HUB1-11][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-12 
+[12:57:58 873][HUB1-12][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-13 
+[12:57:58 873][HUB1-13][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-14 
+[12:57:58 873][HUB1-14][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-15 
+[12:57:58 873][HUB1-15][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-16 
+[12:57:58 873][HUB1-16][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-17 
+[12:57:58 873][HUB1-17][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-18 
+[12:57:58 873][HUB1-18][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-19 
+[12:57:58 873][HUB1-19][Inf]--Update device path
+[12:57:58 873][Global][Inf]--Update HUB1-20 
+[12:57:58 873][HUB1-20][Inf]--Update device path
+[12:57:58 874][Global][Inf]--Scan end 
+[12:57:58 877][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[12:57:58 878][Global][Inf]--Scan usb device
+[12:57:58 878][Global][Inf]--Aml scan WorldCup Device
+[12:57:58 879][Global][Inf]--Host: USB xHCI Compliant Host Controller
+[12:57:58 879][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_a36d&subsys_50071458&rev_10#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[12:57:58 879][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&2720bdb3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[12:57:58 881][Global][Inf]-------->[Port0]Other device
+[12:57:58 881][Global][Inf]-------->[Port1]NoDeviceConnected
+[12:57:58 881][Global][Inf]-------->[Port2]NoDeviceConnected
+[12:57:58 881][Global][Inf]-------->[Port3]NoDeviceConnected
+[12:57:58 881][Global][Inf]-------->[Port4]NoDeviceConnected
+[12:57:58 881][Global][Inf]-------->[Port5]NoDeviceConnected
+[12:57:58 882][Global][Inf]-------->[Port6]Other device
+[12:57:58 882][Global][Inf]-------->[Port7]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port8]Other device
+[12:57:58 883][Global][Inf]-------->[Port9]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port10]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port11]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port12]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port13]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port14]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port15]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port16]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port17]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port18]NoDeviceConnected
+[12:57:58 883][Global][Inf]-------->[Port19]NoDeviceConnected
+[12:57:58 883][Global][Inf]--Scan USB host controller complete
+[12:57:58 883][Global][Inf]--Update data center with HubMap
+[12:57:58 883][Global][Inf]--Update hub1 device data
+[12:57:58 883][Global][Inf]--Update HUB1-1 
+[12:57:58 883][HUB1-1][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-2 
+[12:57:58 883][HUB1-2][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-3 
+[12:57:58 883][HUB1-3][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-4 
+[12:57:58 883][HUB1-4][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-5 
+[12:57:58 883][HUB1-5][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-6 
+[12:57:58 883][HUB1-6][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-7 
+[12:57:58 883][HUB1-7][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-8 
+[12:57:58 883][HUB1-8][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-9 
+[12:57:58 883][HUB1-9][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-10 
+[12:57:58 883][HUB1-10][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-11 
+[12:57:58 883][HUB1-11][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-12 
+[12:57:58 883][HUB1-12][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-13 
+[12:57:58 883][HUB1-13][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-14 
+[12:57:58 883][HUB1-14][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-15 
+[12:57:58 883][HUB1-15][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-16 
+[12:57:58 883][HUB1-16][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-17 
+[12:57:58 883][HUB1-17][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-18 
+[12:57:58 883][HUB1-18][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-19 
+[12:57:58 883][HUB1-19][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Update HUB1-20 
+[12:57:58 883][HUB1-20][Inf]--Update device path
+[12:57:58 883][Global][Inf]--Scan end 
